@@ -1,0 +1,5 @@
+{
+  "programName": "testingProgram",
+  "message": "這是測試程式發出JWT驗證及API呼叫",
+  "emergencyLevel": 2
+}
